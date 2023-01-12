@@ -231,6 +231,8 @@
 <text x="95.5675" y="22.86" size="1.016" layer="21">B1-</text>
 <text x="95.5675" y="20.6375" size="1.016" layer="21">B1+</text>
 <text x="98.1075" y="20.6375" size="1.016" layer="22" rot="MR0">B1+</text>
+<text x="76.2" y="8.5725" size="1.778" layer="21">Volterra IDEX Chassis Board</text>
+<text x="82.8675" y="6.6675" size="1.016" layer="21">Designed by Nishant Bilurkar</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -665,9 +667,6 @@ design rules under a new name.</description>
 <wire x1="39.37" y1="15.3595" x2="39.37" y2="40.64" width="3.048" layer="1"/>
 <wire x1="33.02" y1="46.99" x2="30.04" y2="46.99" width="3.048" layer="1"/>
 <wire x1="39.37" y1="40.64" x2="33.02" y2="46.99" width="3.048" layer="1"/>
-<wire x1="15.24" y1="46.355" x2="17.78" y2="46.355" width="0.508" layer="1"/>
-<via x="17.78" y="46.355" extent="1-16" drill="0.35"/>
-<wire x1="17.78" y1="46.355" x2="27.94" y2="46.355" width="0.508" layer="16"/>
 <via x="27.94" y="46.355" extent="1-16" drill="0.35"/>
 <wire x1="27.94" y1="46.355" x2="30.04" y2="46.355" width="0.508" layer="1"/>
 <wire x1="30.04" y1="45.99" x2="30.04" y2="46.0375" width="0.508" layer="1"/>
@@ -676,6 +675,7 @@ design rules under a new name.</description>
 <wire x1="30.04" y1="45.0774" x2="30.04" y2="45.99" width="1.27" layer="1"/>
 <wire x1="30.04" y1="47.99" x2="30.04" y2="48.99" width="0.508" layer="1"/>
 <wire x1="30.04" y1="44.99" x2="30.04" y2="45.0774" width="0.508" layer="1"/>
+<wire x1="27.94" y1="46.355" x2="15.24" y2="46.355" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="H0-">
 <contactref element="K1" pad="5"/>
