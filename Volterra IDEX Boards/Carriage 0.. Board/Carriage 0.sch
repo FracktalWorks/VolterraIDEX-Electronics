@@ -5781,6 +5781,12 @@ Used as a test point connection for pogo pins or other debugging tools.
 <wire x1="241.3" y1="116.84" x2="215.9" y2="116.84" width="0.1524" layer="91"/>
 <label x="215.9" y="116.84" size="1.778" layer="95" rot="R180"/>
 </segment>
+<segment>
+<pinref part="K2" gate="G$1" pin="3"/>
+<wire x1="63.52" y1="91.35" x2="53.34" y2="91.35" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="91.35" x2="53.34" y2="91.44" width="0.1524" layer="91"/>
+<label x="53.34" y="91.44" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="PT0" class="0">
 <segment>

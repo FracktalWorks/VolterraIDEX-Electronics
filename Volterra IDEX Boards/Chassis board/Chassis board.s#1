@@ -2313,40 +2313,6 @@ Used as a test point connection for pogo pins or other debugging tools.
 <label x="134.62" y="127" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
-<net name="X1_LMT" class="0">
-<segment>
-<pinref part="K1" gate="G$1" pin="22"/>
-<wire x1="114.3" y1="35.56" x2="114.3" y2="55.88" width="0.1524" layer="91"/>
-<label x="114.3" y="55.88" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="K2" gate="G$1" pin="18"/>
-<wire x1="40.64" y1="111.76" x2="60.96" y2="111.76" width="0.1524" layer="91"/>
-<label x="60.96" y="111.76" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="TP5" gate="G$1" pin="1"/>
-<wire x1="91.44" y1="119.38" x2="86.36" y2="119.38" width="0.1524" layer="91"/>
-<label x="86.36" y="119.38" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
-<net name="X2_LMT" class="0">
-<segment>
-<pinref part="K1" gate="G$1" pin="23"/>
-<wire x1="116.84" y1="35.56" x2="116.84" y2="55.88" width="0.1524" layer="91"/>
-<label x="116.84" y="55.88" size="1.778" layer="95" rot="R90"/>
-</segment>
-<segment>
-<pinref part="K3" gate="G$1" pin="17"/>
-<wire x1="210.82" y1="114.3" x2="190.5" y2="114.3" width="0.1524" layer="91"/>
-<label x="190.5" y="114.3" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="TP12" gate="G$1" pin="1"/>
-<wire x1="137.16" y1="139.7" x2="134.62" y2="139.7" width="0.1524" layer="91"/>
-<label x="134.62" y="139.7" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
 <net name="GND" class="0">
 <segment>
 <pinref part="K1" gate="G$1" pin="24"/>
@@ -2587,6 +2553,40 @@ Used as a test point connection for pogo pins or other debugging tools.
 <pinref part="TP16" gate="G$1" pin="1"/>
 <wire x1="137.16" y1="93.98" x2="134.62" y2="93.98" width="0.1524" layer="91"/>
 <label x="134.62" y="93.98" size="1.778" layer="95" rot="R180"/>
+</segment>
+</net>
+<net name="X0_LMT" class="0">
+<segment>
+<pinref part="K2" gate="G$1" pin="18"/>
+<wire x1="40.64" y1="111.76" x2="60.96" y2="111.76" width="0.1524" layer="91"/>
+<label x="60.96" y="111.76" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="TP5" gate="G$1" pin="1"/>
+<wire x1="91.44" y1="119.38" x2="86.36" y2="119.38" width="0.1524" layer="91"/>
+<label x="86.36" y="119.38" size="1.778" layer="95" rot="R180"/>
+</segment>
+<segment>
+<pinref part="K1" gate="G$1" pin="22"/>
+<wire x1="114.3" y1="35.56" x2="114.3" y2="55.88" width="0.1524" layer="91"/>
+<label x="114.3" y="55.88" size="1.778" layer="95" rot="R90"/>
+</segment>
+</net>
+<net name="X1_LMT" class="0">
+<segment>
+<pinref part="K1" gate="G$1" pin="23"/>
+<wire x1="116.84" y1="35.56" x2="116.84" y2="55.88" width="0.1524" layer="91"/>
+<label x="116.84" y="55.88" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="K3" gate="G$1" pin="17"/>
+<wire x1="210.82" y1="114.3" x2="190.5" y2="114.3" width="0.1524" layer="91"/>
+<label x="190.5" y="114.3" size="1.778" layer="95" rot="R180"/>
+</segment>
+<segment>
+<pinref part="TP12" gate="G$1" pin="1"/>
+<wire x1="137.16" y1="139.7" x2="134.62" y2="139.7" width="0.1524" layer="91"/>
+<label x="134.62" y="139.7" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 </nets>
