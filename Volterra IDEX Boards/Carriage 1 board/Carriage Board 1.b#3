@@ -1073,10 +1073,10 @@
 <wire x1="11.684" y1="8.636" x2="71.0946" y2="8.636" width="0.1524" layer="20"/>
 <wire x1="71.0946" y1="8.636" x2="71.0946" y2="13.3096" width="0.1524" layer="20"/>
 <text x="59.1058" y="18.5674" size="1.4224" layer="21">EXTDR 0</text>
-<text x="68.5292" y="32.5628" size="1.778" layer="22" rot="MR0">X_LMT</text>
+<text x="68.5292" y="32.5628" size="1.778" layer="22" rot="MR0">X1_LMT</text>
 <text x="72.9488" y="43.2054" size="1.778" layer="22" rot="MR0">24V</text>
-<text x="56.2864" y="25.908" size="1.016" layer="22" rot="MR0">ET0</text>
-<text x="53.4924" y="25.908" size="1.016" layer="21">ET0</text>
+<text x="56.2864" y="25.908" size="1.016" layer="22" rot="MR0">PT0</text>
+<text x="53.4924" y="25.908" size="1.016" layer="21">PT0</text>
 <text x="57.8612" y="29.464" size="1.016" layer="21">H0+</text>
 <text x="60.579" y="29.464" size="1.016" layer="22" rot="MR0">H0+</text>
 <text x="57.658" y="29.464" size="1.016" layer="22" rot="MR0">H0-</text>
