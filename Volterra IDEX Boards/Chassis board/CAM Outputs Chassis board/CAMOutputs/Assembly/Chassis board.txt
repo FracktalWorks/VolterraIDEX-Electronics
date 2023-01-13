@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/nishb/OneDrive/Documents/GitHub/VolterraIDEX-Electronics/Volterra IDEX Boards/Chassis board/Chassis board.sch at 12-01-2023 20:10
+Partlist exported from C:/Users/nishb/OneDrive/Documents/GitHub/VolterraIDEX-Electronics/Volterra IDEX Boards/Chassis board/Chassis board.sch at 12-01-2023 22:44
 
 Qty Value                          Device                         Package                    Parts                                                                                                                     Description              
 3   FFC/FPC/34PIN/1MMPITCH/TOPLOCK FFC/FPC/34PIN/1MMPITCH/TOPLOCK 34PIN/1MMPITCH/FFC/FPC     K1, K2, K3                                                                                                                                         

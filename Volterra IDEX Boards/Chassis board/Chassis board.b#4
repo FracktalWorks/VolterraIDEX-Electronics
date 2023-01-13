@@ -231,6 +231,8 @@
 <text x="95.5675" y="22.86" size="1.016" layer="21">B1-</text>
 <text x="95.5675" y="20.6375" size="1.016" layer="21">B1+</text>
 <text x="98.1075" y="20.6375" size="1.016" layer="22" rot="MR0">B1+</text>
+<text x="76.2" y="8.5725" size="1.778" layer="21">Volterra IDEX Chassis Board</text>
+<text x="82.8675" y="6.6675" size="1.016" layer="21">Designed by Nishant Bilurkar</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
