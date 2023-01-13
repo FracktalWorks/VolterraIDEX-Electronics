@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6004,6 +6004,10 @@ Used as a test point connection for pogo pins or other debugging tools.
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="102,1,110.49,166.37,12V,24V,,,,"/>
+<approved hash="102,1,50.8,102.87,VIN,24V,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
