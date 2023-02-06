@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2023-01-13T05:06:21Z",
+        "CreationDate": "2023-02-06T05:32:46Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,7 +17,7 @@
         },
         "Owner": "Raghav Varada <vjvarada@gmail.com>",
         "Size": {
-            "X": 102.235,
+            "X": 108.077,
             "Y": 53.975
         }
     }
